@@ -4,7 +4,7 @@
 
 I am a Computer Engineering student specializing in backend development and distributed systems. Currently, I work as a Systems Integration Intern at [Lynxmind](https://www.lynxmind.com/).
 
-I am especially interested in tackling complex backend challenges, managing databases, and working with large-scale distributed systems. I am looking for an internship or job opportunity where I can learn, grow, and contribute value.
+I am especially interested in tackling complex backend challenges, managing databases, and working with large-scale distributed systems. I enjoy being in environments where I can keep learning, growing, and contributing value.
 
 I also enjoy playing the guitar and diving into algorithms :stuck_out_tongue:.
 
