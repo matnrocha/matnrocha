@@ -52,8 +52,6 @@ I also enjoy playing the guitar and diving into algorithms :stuck_out_tongue:.
 
 ---
 
-<br/>
-<br/>
 
 <!-- ### 📊 Estatísticas
 
