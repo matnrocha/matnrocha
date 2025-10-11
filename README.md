@@ -50,7 +50,6 @@ I also enjoy playing the guitar and diving into algorithms :stuck_out_tongue:.
     <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
----
 
 
 <!-- ### 📊 Estatísticas
