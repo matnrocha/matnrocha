@@ -21,15 +21,18 @@ I also enjoy playing the guitar and diving into algorithms :stuck_out_tongue:.
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://medium.com/@matnrocha">
+    
+</p>
+
+<!--
+<a href="https://medium.com/@matnrocha">
         <img 
             alt="Mateus Rocha's Medium" 
             title="Mateus Rocha's Medium" 
             src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
         />
     </a>
-</p>
-
+-->
 
 ---
 
