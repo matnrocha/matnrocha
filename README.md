@@ -6,8 +6,6 @@ I am a Computer Engineering student specializing in backend development and dist
 
 I am especially interested in tackling complex backend challenges, managing databases, and working with large-scale distributed systems. I enjoy being in environments where I can keep learning, growing, and contributing value.
 
-I also enjoy playing the guitar and diving into algorithms :stuck_out_tongue:.
-
 
 
 
